@@ -1,0 +1,6 @@
+{
+  "name": "ConferenceOS",
+  "description": "AI-native multi-persona Conference Management Platform for the complete academic and event lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
